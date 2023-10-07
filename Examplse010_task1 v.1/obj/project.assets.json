@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ЖиНа\\Desktop\\НИКИТА УЧЕБА\\Introduction to programming languages\\Exmpls\\Examplse010_task1\\Examplse010_task1.csproj",
+      "projectUniqueName": "C:\\Users\\ЖиНа\\Desktop\\НИКИТА УЧЕБА\\Introduction to programming languages\\Exmpls\\Examplse010_task1 v.1\\Examplse010_task1.csproj",
       "projectName": "Examplse010_task1",
-      "projectPath": "C:\\Users\\ЖиНа\\Desktop\\НИКИТА УЧЕБА\\Introduction to programming languages\\Exmpls\\Examplse010_task1\\Examplse010_task1.csproj",
+      "projectPath": "C:\\Users\\ЖиНа\\Desktop\\НИКИТА УЧЕБА\\Introduction to programming languages\\Exmpls\\Examplse010_task1 v.1\\Examplse010_task1.csproj",
       "packagesPath": "C:\\Users\\ЖиНа\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ЖиНа\\Desktop\\НИКИТА УЧЕБА\\Introduction to programming languages\\Exmpls\\Examplse010_task1\\obj\\",
+      "outputPath": "C:\\Users\\ЖиНа\\Desktop\\НИКИТА УЧЕБА\\Introduction to programming languages\\Exmpls\\Examplse010_task1 v.1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ЖиНа\\AppData\\Roaming\\NuGet\\NuGet.Config"
