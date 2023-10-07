@@ -1,0 +1,15 @@
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examplse010_task1\bin\Debug\net6.0\Examplse010_task1.exe
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examplse010_task1\bin\Debug\net6.0\Examplse010_task1.deps.json
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examplse010_task1\bin\Debug\net6.0\Examplse010_task1.runtimeconfig.json
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examplse010_task1\bin\Debug\net6.0\Examplse010_task1.dll
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examplse010_task1\bin\Debug\net6.0\Examplse010_task1.pdb
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examplse010_task1\obj\Debug\net6.0\Examplse010_task1.csproj.AssemblyReference.cache
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examplse010_task1\obj\Debug\net6.0\Examplse010_task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examplse010_task1\obj\Debug\net6.0\Examplse010_task1.AssemblyInfoInputs.cache
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examplse010_task1\obj\Debug\net6.0\Examplse010_task1.AssemblyInfo.cs
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examplse010_task1\obj\Debug\net6.0\Examplse010_task1.csproj.CoreCompileInputs.cache
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examplse010_task1\obj\Debug\net6.0\Examplse010_task1.dll
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examplse010_task1\obj\Debug\net6.0\refint\Examplse010_task1.dll
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examplse010_task1\obj\Debug\net6.0\Examplse010_task1.pdb
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examplse010_task1\obj\Debug\net6.0\Examplse010_task1.genruntimeconfig.cache
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examplse010_task1\obj\Debug\net6.0\ref\Examplse010_task1.dll

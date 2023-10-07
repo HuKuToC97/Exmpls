@@ -1,0 +1,15 @@
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examples009_\obj\Debug\net6.0\Examples009_.csproj.AssemblyReference.cache
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examples009_\obj\Debug\net6.0\Examples009_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examples009_\obj\Debug\net6.0\Examples009_.AssemblyInfoInputs.cache
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examples009_\obj\Debug\net6.0\Examples009_.AssemblyInfo.cs
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examples009_\obj\Debug\net6.0\Examples009_.csproj.CoreCompileInputs.cache
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examples009_\bin\Debug\net6.0\Examples009_.exe
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examples009_\bin\Debug\net6.0\Examples009_.deps.json
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examples009_\bin\Debug\net6.0\Examples009_.runtimeconfig.json
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examples009_\bin\Debug\net6.0\Examples009_.dll
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examples009_\bin\Debug\net6.0\Examples009_.pdb
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examples009_\obj\Debug\net6.0\Examples009_.dll
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examples009_\obj\Debug\net6.0\refint\Examples009_.dll
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examples009_\obj\Debug\net6.0\Examples009_.pdb
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examples009_\obj\Debug\net6.0\Examples009_.genruntimeconfig.cache
+C:\Users\ЖиНа\Desktop\НИКИТА УЧЕБА\Introduction to programming languages\Exmpls\Examples009_\obj\Debug\net6.0\ref\Examples009_.dll

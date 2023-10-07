@@ -5,34 +5,28 @@
     if(arg3> result ) result = arg3;
     return result;
 }
+System.Console.Write("Из чисел: ");
+//             0 1 2 3 4 5 6 7 8
+int[] array = {1,1,1,1,1,1,1,1,1};
+int i = 0;
+while (i < 8)
+{
+    array[i] = new Random().Next(1, 5000);
+    System.Console.Write(array[i] + ", ");
+    i++;
+}
+System.Console.Write(" максимальное равно ");
 
-int a1 = new Random().Next(1, 5000);
-System.Console.Write(a1 + ", ");
-int a2 = new Random().Next(1, 5);
-System.Console.Write(a2 + ", ");
-int a3 = new Random().Next(1, 5);
-System.Console.Write(a3 + ", ");
-int b1 = new Random().Next(1, 5);
-System.Console.Write(b1 + ", ");
-int b2 = new Random().Next(1, 5);
-System.Console.Write(b2 + ", ");
-int b3 = new Random().Next(1, 5);
-System.Console.Write(b3 + ", ");
-int c1 = new Random().Next(1, 5);
-System.Console.Write(c1 + ", ");
-int c2 = new Random().Next(1, 5);
-System.Console.Write(c2 + ", ");
-int c3 = new Random().Next(1, 3000);
-System.Console.WriteLine(c3 + ", ");
+
 
 // int max1 = Max (a1, b1, c1);
 // int max2 = Max (a2, b2, c2);
 // int max3 = Max (a3, b3, c3);
 // int max = Max (max1, max2, max3);
-int max1 = Max(a1, b1, c1);
-int max2 = Max(a2, b2, c2);
-int max3 = Max(a3, b3, c3);
-int max = Max( Max(a1, b1, c1), Max(a2, b2, c2), Max(a3, b3, c3));
+int max = Max( Max(array[0], array[1], array[2]), 
+                Max(array[3], array[4], array[5]), 
+                Max(array[6], array[7], array[8])
+                );
 
 
 System.Console.WriteLine(max);
