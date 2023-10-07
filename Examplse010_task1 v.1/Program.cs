@@ -15,7 +15,7 @@ void PrintArray(int[] col)
     int position = 0;
     while (position < count)
     {
-        System.Console.WriteLine(col[position + ", "]);
+        System.Console.Write(col[position] + ", ");
         position++;
     }
 }
@@ -27,13 +27,14 @@ int IndexOf(int[] collection, int find)
     int position = 0;
     while (index < count)
     {
-        if(collection[index] == find)
+        if (collection[index] == find)
         {
             position = index;
+            break;
         }
         index++;
     }
-    return position
+    return position;
 }
 
 int[] array = new int[10];
@@ -43,23 +44,7 @@ PrintArray(array);
 System.Console.WriteLine();
 
 System.Console.Write("Позицию какого числа найти? Введите число=>");
-int find = System.Console.Readline()
-int pos = IndexOf(array, )
-int n = array.Length;
-
-
-
-int find = 4;
-
-int index = 0;
-
-while (index < n)
-{
-    if (array[index] == find)
-    {
-        System.Console.WriteLine(index);
-        break;
-    }
-    index++;
-}
-
+int find = int.Parse(Console.ReadLine());
+System.Console.WriteLine();
+int pos = IndexOf(array, find);
+System.Console.WriteLine(pos + 1);
